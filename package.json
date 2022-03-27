@@ -1,0 +1,19 @@
+{
+  "name": "lost-ark-clock",
+  "version": "1.0.0",
+  "description": "Timers for Lost Ark so you never have to worry about the game again",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beemerwt/lost-ark-clock.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beemerwt/lost-ark-clock/issues"
+  },
+  "homepage": "https://github.com/beemerwt/lost-ark-clock#readme"
+}
