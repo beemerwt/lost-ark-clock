@@ -1,0 +1,34 @@
+{
+  "timer_rules": [ "even_days", "every_hour" ],
+  "Twisting Darkness Legion (302)": {
+    "ilvl": 302
+  },
+  
+  "Twisting Darkness Legion (960)": {
+    "ilvl": 960
+  },
+
+  "Twisting Phantom Legion (302)": {
+    "ilvl": 302
+  },
+  
+  "Twisting Phantom Legion (460)": {
+    "ilvl": 302
+  },
+
+  "Twisting Plague Legion (302)": {
+    "ilvl": 302
+  },
+  
+  "Twisting Plague Legion (802)": {
+    "ilvl": 802
+  },
+
+  "Twisting Chaos Legion (302)": {
+    "ilvl": 302
+  },
+  
+  "Twisting Chaos Legion (1302)": {
+    "ilvl": 1302
+  }
+}

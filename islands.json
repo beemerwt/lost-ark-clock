@@ -1,0 +1,123 @@
+{
+  "Death's Hold Island": {
+    "pvp": true,
+    "ilvl": 250,
+    "normal_times": [ 0.2, 6.2, 12.2, 18.2 ],
+    "weekend_times": [ 3.2, 9.2, 15.2, 21.2 ],
+    "rewards": [
+      "Death's Hold Island Soul",
+      "Crew Application Form: Eungwang (Epic)",
+      "Sail Glyph: Uniqueness"
+    ]
+  },
+  "Gesbroy": {
+    "ilvl": 600,
+    "times": [ 0.2, 1.2, 2.2, 3.2, 4.2, 5.2, 6.2, 7.2, 8.2, 9.2, 10.2, 11.2, 12.2, 13.2, 14.2, 15.2, 16.2, 17.2, 18.2, 19.2, 20.2, 21.2, 22.2, 23.2 ],
+    "rewards": [
+      "Gesbroy Island Soul",
+      "Larger Doll Outfit",
+      "Ale Doll Outfit",
+      "Stout Doll Outfit",
+      "Courage Potion"
+    ]
+  },
+  "Illusion Isle": {
+    "pvp": true,
+    "ilvl": 250,
+    "times": "every_even_hour",
+    "rewards": [
+      "Illusion Isle Token",
+      "Secret Map",
+      "Adventure: Eye of the South Sea",
+      "Crew Application Form: Pupuring (Legendary)",
+      "Crew Application Form: Eungwang (Legendary)",
+      "Crew Application Form: Bharat (Legendary)",
+      "Crew Application Form: Anabel (Legendary)",
+      "Crew Application Form: Ratina (Legendary)",
+      "Crew Application Form: Berald (Legendary)",
+      "Crew Application Form: Wilhelm (Legendary)"
+    ]
+  },
+  "Shangra": {
+    "ilvl": 460,
+    "normal_times": [ 5 ],
+    "weekend_times": [ 8, 10, 0 ],
+    "rewards": [
+      "Shangra Island Soul",
+      "Song of Spring",
+      "Emote: Spirit Recovery",
+      "Emote: Levitate",
+      "Vitality Increase Potion",
+      "Mount: Flying Nimbus"
+    ]
+  },
+  "Unknown Island": {
+    "ilvl": 460,
+    "times": [ 2.2, 4.2, 8.2, 14.2, 20.2 ],
+    "rewards": [
+      "Unknown Island Soul",
+      "Focus (Rare)",
+      "Destruction Stone Fragment",
+      "Guardian Stone Fragment",
+      "Gold"
+    ]
+  },
+  "Lullaby Island": {
+    "ilvl": 250,
+    "times": [ 0.2, 2.2, 4.2, 6.2, 8.2, 10.2, 12.2, 14.2, 16.2, 18.2, 20.2, 22.2],
+    "rewards": [
+      "Lullaby Island Soul",
+      "Secret Map",
+      "Adventure: Pirate's Peg Leg",
+      "Forest's Minuet",
+      "Vitality Increase Potion",
+      "Silver"
+    ]
+  },
+  "Tooki Island": {
+    "ilvl": 250,
+    "times": [ 0.5, 4.5, 8.5, 12.5, 16.5, 20.5 ],
+    "rewards": [
+      "Tooki Island Soul",
+      "Iron Wall (Uncommon)",
+      "Wealth (Uncommon)",
+      "Conviction (Uncommon)",
+      "Tooki King's Fake Eye",
+      "Tookicalibur",
+      "Tooki King (Card)",
+      "Gold",
+      "Silver"
+    ]
+  },
+  "Alakkir": {
+    "ilvl": 250,
+    "times": [],
+    "rewards": [
+      "Alakkir Island Soul",
+      "Secret Map",
+      "Adventure: Moonkeep",
+      "Silver"
+    ]
+  },
+  "Spida Island": {
+    "ilvl": 250,
+    "times": [],
+    "rewards": [
+      "Spida Island Soul",
+      "Secret Map",
+      "Adventure: Pirate Flag",
+      "Overwhelm (Uncommon)",
+      "Kagros (Card)"
+    ]
+  },
+  "Erasmo": {
+    "ilvl": 460,
+    "times": [],
+    "rewards": [
+      "Erasmo's Island Soul",
+      "Guardian Stone Fragment",
+      "Destruction Stone Fragment",
+      "Erasmo (Card)"
+    ]
+  }
+}

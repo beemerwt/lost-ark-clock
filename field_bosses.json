@@ -1,0 +1,99 @@
+{
+  "timer_rules": [ "odd_days", "every_hour" ],
+  "Signatus": {
+    "ilvl": 380,
+    "location": {
+      "continent": "Arthetine",
+      "area": "Scraplands"
+    },
+    "rewards": [ "Bleed (Rare)" ]
+  },
+  "Tarsila": {
+    "ilvl": 380,
+    "location": {
+      "continent": "Shushire",
+      "area": "Lake Eternity"
+    },
+    "rewards": [ "4th Giant's Heart" ]
+  },
+  "Chaotic Chuo": {
+    "ilvl": 380,
+    "location": {
+      "continent": "Anikka",
+      "area": "Melody Forest"
+    },
+    "rewards": [ "Bleed (Rare)" ]
+  },
+  "Magmadon": {
+    "ilvl": 540,
+    "location": {
+      "continent": "Rohendel",
+      "area": "Xeneela Ruins"
+    },
+    "rewards": [ "Melted Fragment of Magmadon", "Third Contaminated Elemental Food" ]
+  },
+  "Proxima": {
+    "ilvl": 540,
+    "location": {
+      "continent": "North Vern",
+      "area": "Vernese Forest"
+    },
+    "rewards": [ "Natural Proxima Skin", "Star's Breath" ]
+  },
+  "Kohinorr": {
+    "ilvl": 880,
+    "location": {
+      "continent": "Yorn",
+      "area": "Iron Hammer Mine"
+    },
+    "rewards": [ "Secret Map", "Adventure: Covered Figurehead" ]
+  },
+  "Harvest Lord Incarnate": {
+    "ilvl": 880,
+    "location": {
+      "continent": "Sea of Gienah",
+      "area": "Orvis Island"
+    },
+    "rewards": [ "Orvis Island Soul" ]
+  },
+  "Ancheladus": {
+    "ilvl": 1040,
+    "location": {
+      "continent": "Feiton",
+      "area": "Red Moonshade"
+    },
+    "rewards": [ "Eel Caviar" ]
+  },
+  "Sol Grande": {
+    "ilvl": 1040,
+    "location": {
+      "continent": "Sea of Gienah",
+      "area": "Alteisen"
+    },
+    "rewards": [ "Alteisen Island Soul", "Secret Map", "Adenture: The Hestia" ]
+  },
+  "Moake": {
+    "ilvl": 1415,
+    "location": {
+      "continent": "Punika",
+      "area": "Tikatika Colony"
+    },
+    "rewards": [ "Omnium Star #5", "Bleed (Legendary)" ]
+  },
+  "Aurion": {
+    "ilvl": 1385,
+    "location": {
+      "continent": "Sea of Procyon",
+      "area": "Wildwater Island"
+    },
+    "rewards": [ "Bleed (Legendary)", "Wildwater Island Soul" ]
+  },
+  "Brealeos": {
+    "ilvl": 1385,
+    "location": {
+      "continent": "Sea of Gienah",
+      "area": "Frostfire Island"
+    },
+    "rewards": [ "Frostfire Island Soul" ]
+  }
+}
