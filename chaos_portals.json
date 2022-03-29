@@ -1,5 +1,5 @@
 {
-  "timer_rules": [ "even_days", "every_hour" ],
+  "timer_rules": [ "mondays", "thursdays", "every_hour" ],
   "Twisting Darkness Legion (302)": {
     "ilvl": 302
   },

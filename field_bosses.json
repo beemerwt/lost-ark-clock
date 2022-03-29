@@ -1,5 +1,5 @@
 {
-  "timer_rules": [ "odd_days", "every_hour" ],
+  "timer_rules": [ "tuesdays", "fridays", "every_hour" ],
   "Signatus": {
     "ilvl": 380,
     "location": {

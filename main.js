@@ -13,13 +13,18 @@ function updateTimes(utcNow, serverNow, localNow) {
   utcNow.html(utcTime);
 }
 
+function getData() {
+  $("#timer_data").load("https://lostarkcodex.com/us/eventcalendar/");
+}
+
 $(document).ready(async () => {
   const utcNow = $("#utcTimeNow");
   const serverNow = $("#serverTimeNow");
   const localNow = $("#localTimeNow");
-  updateTimes(utcNow, serverNow, localNow);
+  updateTimes(utcNow, serverNow, localNow); 
   
-  
+  const timers = getData();
+  console.log(timers);
 
   setInterval(updateTimes, 1000, utcNow, serverNow, localNow);
 });

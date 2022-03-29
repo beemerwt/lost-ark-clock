@@ -1,0 +1,1 @@
+const CODEX = "https://lostarkcodex.com/us/eventcalendar/";
